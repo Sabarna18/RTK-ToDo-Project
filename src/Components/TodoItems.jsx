@@ -31,8 +31,8 @@ const TaskList = () => {
         }
     }
     return (
-        <div className="bg-slate-600 p-4 m-4 rounded-xl">
-            <div className="bg-slate-800 p-4 m-4 rounded-xl">
+        <div className="bg-black mx-auto p-4 m-4 rounded-xl">
+            <div className="bg-slate-800 mx-auto p-4 m-4 rounded-xl">
                 {/* search task */}
 
                 <div className="bg-transparent p-4 m-2 items-center rounded-2xl">
