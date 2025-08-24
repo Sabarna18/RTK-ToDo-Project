@@ -43,7 +43,7 @@ const TaskList = () => {
                 </div>
 
                 {/* Filtering Tasks */}
-                <div className="flex gap-4 mb-4">
+                <div className="flex mx-auto sm:gap-4 gap-2 mb-4">
                     {
                         ['all', 'completed', 'pending'].map(status => (
                             <button
