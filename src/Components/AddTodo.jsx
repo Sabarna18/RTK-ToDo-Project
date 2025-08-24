@@ -26,7 +26,7 @@ const TaskForm = () => {
     return (
 
 
-        <div className="bg-[#d91093] mx-auto rounded-2xl shadow-2xl p-4">
+        <div className="bg-[#30343f] mx-auto rounded-2xl shadow-2xl p-4">
             <h1 className='text-2xl text-white font-bold p-2 m-2'>Task Manager</h1>
             <form onSubmit={add} className="flex items-center  p-4 rounded-xl gap-2 mb-4">
 
